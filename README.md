@@ -24,6 +24,8 @@ print("Seu Nome Aqui")
 
 $git add .
 $git commit -m "Nome adicionado"
-%git push
+$git push
+
+* Envie um pull request para o repositório original.
 
 Depois de fazer o push, suas mudanças estarão no seu repositório forkado no GitHub.
